@@ -1,4 +1,6 @@
 # EmbeddedDeviceHostedWebApplicationSample
+[![Build status](https://ci.appveyor.com/api/projects/status/iyi90mnycjl9dtuw?svg=true)](https://ci.appveyor.com/project/sergeyo/embeddeddevicehostedwebapplicationsample)
+
 A sample application shows a static web application (supposed to be hosted on embed device) with a stub Asp.NET Core backend.
 
 Static web content sources can be found in ClientApp folder. It consists of index.js root file and index.html.ejs template. To build web application you should first restore npm packages with 
